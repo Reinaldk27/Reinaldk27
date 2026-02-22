@@ -9,10 +9,10 @@
 </a>
 
 - 🔭 Atualmente estou desenvolvendo **servidores SA-MP, sites, APKs e jogos**  
-- 🌱 Estou explorando novas tecnologias para criar **mods e scripts para SA-MP**  
-- 🤝 Disponível para trabalhos freelancers e parcerias em projetos de jogos e apps  
-- 🌱 Aprendendo constantemente sobre **otimização de servidores e desenvolvimento mobile**  
-- 💬 Pergunte-me sobre **SA-MP, scripts, sites e desenvolvimento de jogos**  
+- 🌱 Estou explorando novas tecnologias para criar **mods e scripts para jogos**  
+- 🤝 Disponível para trabalhos freelancers e parcerias em projetos de jogos, apps e sites  
+- 🌱 Aprendendo constantemente sobre **otimização de servidores e desenvolvimento**  
+- 💬 Pergunte-me sobre **scripts, sites e desenvolvimento de jogos**  
 - 📫 Para entrar em contato: **https://discord.com/users/1471852391656722518**  
 
 
