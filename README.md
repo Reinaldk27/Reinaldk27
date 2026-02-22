@@ -33,7 +33,7 @@
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/Reinaldk27">
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
     </a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/@dylan_776_](https://www.instagram.com/_dylan_776">
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/_dylan_776)">
       <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
      </a>
     <a style="margin-left: 10px;" target="_blank" href="https://youtube.com/@dtubezone">
